@@ -1,71 +1,63 @@
-#  Sales Dashboard in Excel  
+# Sales Dashboard — Excel
 
-An interactive Excel dashboard that provides a **clear snapshot of business performance** and transforms raw sales data into **actionable insights**.  
-
----
-
-##  Project Overview  
-This project demonstrates how raw transactional data can be turned into a **dynamic dashboard** using Excel. The dashboard includes KPIs, slicers, and visuals that allow users to interactively explore business performance across multiple dimensions.  
+An interactive Excel dashboard that transforms raw transactional data into a clear snapshot of business performance across cities, segments, and time.
 
 ---
 
-##  Features  
+## Key Metrics
 
-- **KPIs:**  
-  - Total Sales  
-  - Total Orders   
-  - Average Order Value  
-
-- **Slicers:**  
-  - Category 
-  - Region   
-  - Segment   
-
-- **Charts & Visuals:**  
-  - Sales by Top Cities   
-  - Sales by Segment   
-  - Monthly Sales Trends   
+| Metric | Value |
+|---|---|
+| Total Sales | $2,261,537 |
+| Total Orders | 9,800 |
+| Average Sales Per Order | $230.77 |
+| Data Range | 2015 – 2018 |
+| Top City by Sales | New York City |
 
 ---
 
-##  Visualizations Created  
-- **KPI Cards** → Quick snapshot of Total Sales, Orders, and AOV  
-- **Sales by Top Cities** → Bar chart of best-performing cities  
-- **Sales by Segment** → Vertical bar chart comparing customer segments  
-- **Monthly Trends** → Line chart for revenue growth patterns  
-- **Interactive Filters** → Slicers to drill down into specific markets  
+## Dashboard Features
+
+**KPI Cards**
+- Total Sales, Total Orders, Average Order Value — visible at a glance
+
+**Charts & Visuals**
+- Monthly Sales Trend (2015–2018) — line chart tracking revenue growth over time
+- Top Cities by Sales — bar chart highlighting best-performing markets
+- Sales by Segment — pie chart breaking down Consumer, Corporate, and Home Office
+
+**Interactive Filters (Slicers)**
+- Segment — Consumer, Corporate, Home Office
+- Category — Furniture, Office Supplies, Technology
+- Region — Central, East, South, West
 
 ---
 
-##  Key Benefits  
+## Tools & Skills
 
-- Spot **top-performing markets and segments** in seconds  
-- Track **monthly sales patterns** effortlessly  
-- Enable **real-time exploration** with slicer-driven interactivity  
-- Deliver **data-driven decision support** without extra tools  
-
----
-
-##  Tools & Skills Demonstrated  
-
-- **Excel**: Pivot Tables, Pivot Charts, Slicers  
-- **Data Visualization**: Business KPIs & Trend Analysis  
-- **BI Reporting**: Turning raw data into a visual story  
+| Tool | Purpose |
+|---|---|
+| Excel Pivot Tables | Data aggregation and summarization |
+| Pivot Charts | Visual representation of KPIs and trends |
+| Slicers | Interactive filtering across all visuals |
+| KPI Cards | Executive-level performance snapshot |
 
 ---
 
-##  Business Impact  
-This dashboard enables:  
-- Faster **sales performance reviews**  
-- Easy **comparison of categories, regions, and segments**  
-- **Executive-friendly reporting** without coding  
-- A reusable framework for **future datasets**  
+## Business Value
+
+- Spot top-performing cities and segments instantly
+- Track monthly revenue patterns across four years
+- Filter by region, category, or segment without any coding
+- Executive-friendly reporting built entirely in Excel
 
 ---
 
-##  Project Structure  
+## Project Structure
 
-```bash
-├── LICENSE                #License file
-├── README.md              #Project Documentation
+```
 ├── Sales Dashboard.xlsx   # Main interactive Excel dashboard
+└── README.md              # Project documentation
+```
+
+---
