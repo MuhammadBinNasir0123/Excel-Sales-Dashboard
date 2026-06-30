@@ -1,4 +1,4 @@
-# Sales Dashboard — Excel
+# Sales Dashboard : Excel
 
 An interactive Excel dashboard that transforms raw transactional data into a clear snapshot of business performance across cities, segments, and time.
 
@@ -19,17 +19,17 @@ An interactive Excel dashboard that transforms raw transactional data into a cle
 ## Dashboard Features
 
 **KPI Cards**
-- Total Sales, Total Orders, Average Order Value — visible at a glance
+- Total Sales, Total Orders, Average Order Value : visible at a glance
 
 **Charts & Visuals**
-- Monthly Sales Trend (2015–2018) — line chart tracking revenue growth over time
-- Top Cities by Sales — bar chart highlighting best-performing markets
-- Sales by Segment — pie chart breaking down Consumer, Corporate, and Home Office
+- Monthly Sales Trend (2015–2018) : line chart tracking revenue growth over time
+- Top Cities by Sales : bar chart highlighting best-performing markets
+- Sales by Segment : pie chart breaking down Consumer, Corporate, and Home Office
 
 **Interactive Filters (Slicers)**
-- Segment — Consumer, Corporate, Home Office
-- Category — Furniture, Office Supplies, Technology
-- Region — Central, East, South, West
+- Segment : Consumer, Corporate, Home Office
+- Category : Furniture, Office Supplies, Technology
+- Region : Central, East, South, West
 
 ---
 
